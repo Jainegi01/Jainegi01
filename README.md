@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://coding.blog/img/update-social-banner.png" alt="Header Background" width="100%" />
-  <br>
-  Hi 👋! I'm Jai Negi, a Full Stack Developer from India
+  <img src="https://github.com/user-attachments/assets/99638a19-92de-466a-81ca-233346176fc1" alt="Header Background" width="100%" />
 </h1>
 
 <table>
