@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/99638a19-92de-466a-81ca-233346176fc1" alt="Header Background" width="100%" />
+  <img src="https://github.com/user-attachments/assets/efd10584-5358-4512-9cbb-7e6e2ff6d7ca" alt="Header Background" width="100%" />
 </h1>
 
 <table>
