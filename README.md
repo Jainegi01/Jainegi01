@@ -79,5 +79,5 @@ Passionate Full Stack Developer with a knack for crafting robust and user-centri
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jainegi01&style=flat-square&color=blue" alt="Profile views"/>
-  <p>Made with </> by Jai Negi</p>
+  <p>Made with "</>" by Jai Negi</p>
 </div>
